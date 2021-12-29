@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Game.SystemJeu
+Class-Path: Game_of_life.jar
+
