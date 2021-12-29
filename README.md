@@ -9,7 +9,7 @@ You can get the runnable here : [Link](https://drive.google.com/file/d/1cpwZZ5do
 ### Prerequisites
 
 As this is Java you will need Java Development Kit to code
-And at least Java Runtime Environment to run
+And at least Java Runtime Environment to run it
 
 ## Authors
 
